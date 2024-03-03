@@ -3,6 +3,7 @@
 //By Mabo Giqwa
 //Chapter 13 Programming Project 3 in Problem
 //Solving With C++
+//Unfinished solution
 #include <iostream>
 #include <string>
 #include <cstring>
