@@ -1,7 +1,7 @@
 
 //Author: Mabo Giqwa
 //Date created: 08-01-2023
-//Write a program that allows the user to type in any one-line question and 
+//Description: Write a program that allows the user to type in any one-line question and 
 //then answers that question.
 #include <iostream>
 #include <fstream>
